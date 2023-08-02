@@ -1,4 +1,5 @@
-Atropos 3D Library Test Repository
+Atropos 3D Library Test Repository 
+<hr/> <br/>
 Este repositorio contiene un simple test para la librería Atropos, la cual permite trabajar con imágenes 3D de manera eficiente.
 
 
